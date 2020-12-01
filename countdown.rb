@@ -3,4 +3,6 @@ def countdown(integer)
     puts "#{integer} SECOND(S)!"
     integer -= 1
     end
+    integer == 0
+    return "HAPPY NEW YEAR!"
 end
