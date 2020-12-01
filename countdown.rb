@@ -4,4 +4,3 @@ def countdown(integer)
     integer -=
   end
   puts "HAPPY NEW YEAR"
-end
